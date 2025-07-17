@@ -4,7 +4,7 @@ This program takes a TXT file containing Sony XAVC-S camera metadata outputted b
 * Date and time
 * Aperture
 * Shutter speed
-* Gain (dB)
+* Gain (dB) / ISO
 
 Note that this probably won't work for metadata from camera brands other than Sony.
 
